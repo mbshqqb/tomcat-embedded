@@ -30,6 +30,4 @@
             <version>${tomcat-version}</version>
         </dependency>
     </dependencies>
-
-
 </project>

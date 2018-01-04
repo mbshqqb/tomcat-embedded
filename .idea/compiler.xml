@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="jnlp" />
         <module name="tomcat8" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="jnlp" target="1.5" />
       <module name="tomcat" target="1.5" />
       <module name="tomcat7" target="1.5" />
       <module name="tomcat8" target="1.5" />

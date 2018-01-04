@@ -1,4 +1,4 @@
-package com.zj.servlet;
+package com.zj.server.servlet;
 
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/jnlp/jnlp.iml" filepath="$PROJECT_DIR$/jnlp/jnlp.iml" />
       <module fileurl="file://$PROJECT_DIR$/tomcat.iml" filepath="$PROJECT_DIR$/tomcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/tomcat8/tomcat8.iml" filepath="$PROJECT_DIR$/tomcat8/tomcat8.iml" />
     </modules>
